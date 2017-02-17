@@ -1,0 +1,8 @@
+c:\users\gon\documents\visual studio 2013\Projects\Car_Controller\Car_Controller\bin\Debug\Car_Controller.exe.config
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\bin\Debug\Car_Controller.exe.config
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\obj\Debug\Car_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\obj\Debug\Car_Controller.Properties.Resources.resources
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\obj\Debug\Car_Controller.View.FormConfig.resources
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\obj\Debug\Car_Controller.View.FormHelp.resources
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\obj\Debug\Car_Controller.View.FormMain.resources
+C:\Users\Gon\Desktop\Car_Controller\Car_Controller\obj\Debug\Car_Controller.csproj.GenerateResource.Cache
